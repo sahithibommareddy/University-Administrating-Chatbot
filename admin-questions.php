@@ -47,7 +47,7 @@ if (mysqli_connect_error()) {
         <input class="form-control form-control-dark w-100" type="text" placeholder="Search" aria-label="Search">
         <ul class="navbar-nav px-3">
             <li class="nav-item text-nowrap">
-                <a class="nav-link" href="/se_project/">Sign out</a>
+                <a class="nav-link" href="/University-Administrating-Chatbot/">Sign out</a>
             </li>
         </ul>
     </nav>
@@ -115,7 +115,7 @@ if (mysqli_connect_error()) {
                     ?>
                 </table>
                 <div class="container" style="text-align: center;">
-                    <a class="btn btn-primary" href="/se_project/add-question.php">Add Questions</a>
+                    <a class="btn btn-primary" href="/University-Administrating-Chatbot/add-question.php">Add Questions</a>
                 </div>
             </main>
         </div>

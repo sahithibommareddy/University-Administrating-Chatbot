@@ -25,7 +25,7 @@ $row = mysqli_fetch_array($result);
 
 <?php
 // if($_POST){
-//     header("Location: /se_project/admin-students.php");
+//     header("Location: /University-Administrating-Chatbot/admin-students.php");
 // }
 ?>
 <?php
@@ -46,7 +46,7 @@ if ($_POST) {
      echo "Error: " . $sql . "<br>" . $link->error;
         }
         }
-    // header("Location: /se_project/admin-students.php");
+    // header("Location: /University-Administrating-Chatbot/admin-students.php");
 }
 else{
     echo "something went wrong ";

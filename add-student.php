@@ -47,7 +47,7 @@ if ($_POST) {
         }
     }
 
-    // header("Location: /se_project/admin-students.php");
+    // header("Location: /University-Administrating-Chatbot/admin-students.php");
 }
 ?>
 
@@ -154,7 +154,7 @@ if ($_POST) {
     </div>
     <script>
         function admindash() {
-            window.location.replace("http://localhost/se_project/admin-students.php");
+            window.location.replace("http://localhost/University-Administrating-Chatbot/admin-students.php");
         }
     </script>
 </body>

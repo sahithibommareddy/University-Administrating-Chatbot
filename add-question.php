@@ -37,7 +37,7 @@ if ($_POST) {
             echo '<div style="margin:0 40%;" class=" alert alert-success" role="alert">
               Question successfully added 
               </div>';
-            // header("Location: /se_project/admin-questions.php");
+            // header("Location: /University-Administrating-Chatbot/admin-questions.php");
         }
     }
 }
@@ -89,7 +89,7 @@ if ($_POST) {
 <script>
       function back()
       {
-        window.location.replace("http://localhost/se_project/admin-questions.php");
+        window.location.replace("http://localhost/University-Administrating-Chatbot/admin-questions.php");
       }
 </script>
 </html>
